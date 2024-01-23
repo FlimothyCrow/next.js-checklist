@@ -1,3 +1,3 @@
 # next.js-checklist
 
-Hello world!
+<!-- Hello world! -->
