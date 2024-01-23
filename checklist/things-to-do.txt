@@ -1,0 +1,10 @@
+TO DO:
+set up auto linter
+unit tests
+dark mode toggle
+
+DONE:
+set up second route /checklist
+
+
+    
